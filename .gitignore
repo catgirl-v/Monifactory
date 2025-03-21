@@ -75,6 +75,8 @@ config/fancymenu/customization/pack_credit_screen_layout.txt
 #Hide all client-only files
 /config/**/*client.*
 #Except these
+!/config/cofh_core-client.toml
+!/config/cucumber-client.toml
 !/config/sophisticatedstorage-client.toml
 !/config/**/darkmodeeverywhere-client.toml
 
