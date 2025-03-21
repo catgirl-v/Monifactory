@@ -29,6 +29,9 @@ const unifyChisel = (event) => {
 }
 
 ServerEvents.tags("item", event => {
+    event.add('forge:stripped_logs', 'gtceu:stripped_rubber_log')
+    event.add('forge:stripped_wood', 'gtceu:stripped_rubber_wood')
+
     event.add("ae2:all_fluix", "gtceu:fluix_gem")
     event.add("ae2:all_certus_quartz", "gtceu:charged_certus_quartz_gem")
     event.add("forge:gems/certus_quartz", "gtceu:charged_certus_quartz_gem")
