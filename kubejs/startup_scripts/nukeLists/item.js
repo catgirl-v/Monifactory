@@ -278,7 +278,6 @@ global.itemNukeList = [
     "thermal:machine_bottler",
     "thermal:machine_brewer",
     "thermal:machine_crystallizer",
-    "thermal:device_xp_condenser",
 
     // Wireless Chargers
     "wirelesschargers:basic_wireless_block_charger",

@@ -123,7 +123,6 @@ JEIEvents.hideFluids(event => {
 
     // Hide Thermal fluids
     event.hide("thermal:creosote")
-    event.hide("cofh_core:experience")
     event.hide("thermal:glowstone")
     event.hide("thermal:redstone")
 

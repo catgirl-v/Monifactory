@@ -29,7 +29,6 @@ global.fluidNukeList = [
     "gtceu:molten_kanthal",
 
     // Thermal Series
-    "cofh_core:experience",
     "thermal:creosote",
     "thermal:glowstone",
     "thermal:redstone",
