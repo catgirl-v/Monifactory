@@ -54,6 +54,7 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
     GTMaterials.Copper.addFlags(GTMaterialFlags.GENERATE_GEAR)
     GTMaterials.Silver.addFlags(GTMaterialFlags.GENERATE_GEAR)
     GTMaterials.Lead.addFlags(GTMaterialFlags.GENERATE_GEAR)
+    GTMaterials.Lapis.addFlags(GTMaterialFlags.GENERATE_GEAR)
 
     // Radioactive materials that get liquid forms and/or a new color
     addFluid(GTMaterials.Einsteinium, $FluidStorageKeys.LIQUID, 1133);

@@ -25,7 +25,6 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'thermal:cured_rubber' })
     event.remove({ input: 'forge:nuggets/netherite' })
     event.remove({ id: 'thermal:gunpowder_4' })
-    event.remove({ id: 'thermal:device_xp_condenser' })
 
     // Redstone arsenal
     event.remove({ id: 'redstone_arsenal:smelting/flux_ingot_from_dust_smelting' })
